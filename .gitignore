@@ -13,3 +13,6 @@ csv/
 
 # VS Code
 .vscode/
+
+# База данных
+thai_words.db
